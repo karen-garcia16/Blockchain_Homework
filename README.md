@@ -1,6 +1,8 @@
 # Blockchain_Homework
 
-## Screenshots of Streamlit Application 
+### Code for pychain.py App can be viewed ![HERE](https://github.com/karen-garcia16/Blockchain_Homework/blob/main/Starter_Code/pychain.py)
+
+#### Screenshots of Streamlit Application 
 
 ![image](https://user-images.githubusercontent.com/100542673/187548454-e564e815-ddac-4161-b703-5b7d06d9b74f.png)
 
